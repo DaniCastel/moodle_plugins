@@ -1,5 +1,5 @@
 
-# Project Title
+# Moodle plugins latest version
 
 This script obtains all Moodle plugins and generates a csv with the list of plugins and the latest version
 
